@@ -1,0 +1,48 @@
+
+***Important Links***
+1.
+https://ourcodesolution.com/blog/top-30-python-tips-and-tricks-for-beginners/?ref=morioh.com&utm_source=morioh.com
+2.
+https://ourcodesolution.com/blog/lambda-map-filter-functions-in-python/?ref=morioh.com&utm_source=morioh.com
+
+***Important Links***
+
+More magic methods for common operators:
+__sub__ for -
+__mul__ for *
+__truediv__ for /
+__floordiv__ for //
+__mod__ for %
+__pow__ for **
+__and__ for &
+__xor__ for ^
+__or__ for |
+
+Python also provides magic methods for comparisons.
+__lt__ for <
+__le__ for <=
+__eq__ for ==
+__ne__ for !=
+__gt__ for >
+__ge__ for >=
+
+
+There are several magic methods for making classes act like containers.
+__len__ for len()
+__getitem__ for indexing
+__setitem__ for assigning to indexed values
+__delitem__ for deleting indexed values
+__iter__ for iteration over objects (e.g., in for loops)
+__contains__ for in
+
+There are several magic methods for making classes act like containers.
+__len__ for len()
+__getitem__ for indexing
+__setitem__ for assigning to indexed values
+__delitem__ for deleting indexed values
+__iter__ for iteration over objects (e.g., in for loops)
+__contains__ for in
+
+There are many other magic methods that we won't cover here,
+such as __call__ for calling objects as functions, and __int__, __str__,
+and the like, for converting objects to built-in types.
